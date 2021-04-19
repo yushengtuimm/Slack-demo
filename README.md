@@ -4,4 +4,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This is a recreation of slack app.
 
+Front-end using React, Redux, and material-ui.
+
 Back-end using firebase.
