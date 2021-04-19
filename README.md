@@ -7,3 +7,8 @@ This is a recreation of slack app.
 Front-end using React, Redux, and material-ui.
 
 Back-end using firebase.
+
+
+## Demo
+
+Deploy on firebase hosting : https://slack-demo-dd6d7.web.app/
